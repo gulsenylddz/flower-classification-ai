@@ -212,10 +212,9 @@ flora-ai
 
 ### 👨‍💻 Geliştirici
 
-## Mertcan Topcu
+## Gülşen YILDIZ
 
-Bilgisayar Mühendisliği
+Yazılım Mühendisi
 
-⭐ Projeyi beğendiysen yıldız vermeyi unutma ⭐
 
 </div>
